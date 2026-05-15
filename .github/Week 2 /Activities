@@ -1,1 +1,36 @@
+# Activities
 
+## [REQUIRED] MIT APP INVENTOR — SECOND APP + DOCUMENTATION -- completed in different repository.
+
+## [RECOMMENDED] DOCUMENTATION SELF-AUDIT:
+Lets take my Dungeon Decision Maker app as an example:
+- Would they understand it?
+  Only if they are decent at least at coding but if someone who did not
+  know code saw it they would have no idea what it does without an explanation.
+
+- Do the Functions and Variable tell a clear story?
+  The functions and variable names do indeed, atleast to me, show a clear story and what they do.
+
+- Do some of the comments contradict the code? 
+  One thing I lack in coding is even remotely placing comments but when I do I use them similar to
+  a simple explanation on what it's supposed to do.
+
+- Is there a README? Does it work? 
+  The code has a README and it does indeed work. If I were to change anything I would allow it to have more choice options and backgrounds.
+
+## [RECOMMENDED] PROGRAMMING PRACTICE ARTICLE — START BRAINSTORMING:
+For me I did not feel the need to brainstorm for practice. I'll think of an idea when I get there.
+> Thanks for the heads up
+
+## [RECOMMENDED] FOLLOW-UP QUESTIONS AND REFLECTIONS:
+- Look at code you wrote more than six months ago. Can you understand it without effort? What would have helped your past self?
+Looking back at my code it is understandable for the most part but what would have really helped would be to add more comments as labeling.
+
+- What kinds of comments do you tend to write? Are they explaining why, or describing what?
+As I mentioned before I would use the comments as simple reminders as to what this line of code does and its importance.
+
+- When you receive critical feedback on your code, what’s your immediate emotional response? How might you reframe that response?
+I would take that feedback as critic, fix the issue, and thank them for the feedback.
+
+- If you had to enforce one style rule across your team forever, which would you pick — and why?
+Make sure your code is understandable!
