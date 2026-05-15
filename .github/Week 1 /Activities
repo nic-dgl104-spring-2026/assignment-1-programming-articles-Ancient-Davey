@@ -1,0 +1,31 @@
+## Platform Safari:
+> May 6, 
+ 1. Desktop:
+Steam
+ Steam runs as a full desktop application installed on Windows, which gives it direct access to powerful hardware like dedicated GPUs, large storage, and high performance CPUs. Because of this, it can run and manage large, graphics intensive games that would be impossible to play in a browser or on mobile. The desktop platform also allows features like mod support, local file access, and high speed downloads through the OS’s networking stack. The limitation, though, is that Steam is tied to a stationary device. I can’t easily play or manage my library on the go the way I could with a mobile app, and installing games requires significant disk space and system resources that lighter platforms don’t demand.
+ 2. IOS mobile app on an iPhone:
+Spotify
+ A mobile app on iOS or Android for streaming music seamlessly while on the move, switch audio output instantly to Bluetooth headphones or my car, and respond to hardware buttons on the phone for quick play/pause without opening the app. Those interactions would be hard to implement if not impossible on a desktop browser. One drawback is that you cannot freely access the files or move them into a different folder the way you would on a desktop app, because IOS restricts direct file access.
+ 3. Web app in a browser:
+Google Docs
+ Google Docs on the web excels because the browser is made for real-time collaboration. Multiple people can edit the same document simultaneously, and the platform handles the syncing, history, and any conflict resolution without any installation. Collaboration is harder on a desktop-only-app with some people always having limited accessibility to their desktop. The draw back for Google Docs though is that is depends on internet connection, take for example, if my internet connection were to drop all of a sudden, the features like live collaborations or even saving the changes become unreliable. This drawback does not apply to a native desktop word processor that does not use internet wouldn’t suffer from.
+
+
+## Follow Up Questions and Reflections:
+> May 8, 
+Count clicks apparently look different because each platform forces you to think in its mental model: its even system, its UI components, its data flow, and its constraints that’s what I found online anyway.
+Rebuilding a Platform: If I were to rebuild let’s say Google Docs I would try to keep the pattern the same but if I were to use a different platform to build it the Platforms main design would be gone so I would have to rebuild and redesign as best as I could.
+Why the course says “platform-based applications”: The point in this course isn’t to master one platform, it is to understand the concept and patterns behind platforms.
+What I didn’t about platforms and app architecture: Frankly I did not even know that much about platforms before, so learning about them was nice.
+
+## Explore the Landscape – Platforms rants:
+> May 7, 
+Steve Yegge does a good job of showing the clear difference between Amazon and Google. How Amazon has a certain Jeff Bezos which in this here blog is painted as someone akin to the devil or according to him “Dread Bezos”. Don’t get me wrong, I always knew he was not a good person, but this blog puts him in an even worse light. According to Yegge, Bezos does not really care much about the people, teams, and even how they get it done as long as it gets done, but he also admits that Bezos had a vision that changed the tech industry. From what I am reading, Amazon does not have the best human resource management… and no that is not a good thing. So even if Bezos didn’t care about people, he did understand platforms, and that insight reshaped Amazon and the entire industry.
+Right now, Google might seem like the better choice for a company, but it is not without its own faults. As said by Yegge Google seems to not do Platforms well as it should. He says that there are only a few teams that really take the idea of Platforms seriously and that most teams don’t think of it or think of it little. Long term thinking would be the optimal path to follow but to Yegge Google is following a short-term way of thinking and doing things. This limits the long-term growth of the company because developers cannot build Google’s products the way they can with Amazon’s. Yegge mentioned that “A platform is accessibility”, and I agree with that because a product becomes only useful when everyone can access its internals through APIs and build on top of it.
+
+## Follow Up Questions and Reflections:
+> May 8, 
+Are the UI elements sufficient: Well, let’s just say it works, not good, but it works. The game itself is also laggy and does not run very smoothly. It also needs a screen for a start, restart, and game over. The visuals are lacking and it is missing sound effects which really make a game feel better.
+Examining the Code: Looking at it the code works it just lacks some tweaks here and there like projectile speed or time for the ufo to move.
+What I learned about programming: Even thought it is a simple game it still requires a good base understanding of coding which I thought was kind of an interesting thought.
+
