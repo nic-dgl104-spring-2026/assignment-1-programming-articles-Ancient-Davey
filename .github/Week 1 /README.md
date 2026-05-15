@@ -1,4 +1,4 @@
-# Platforms:
+# Platforms just what are they?
 This week had a lot more to learn about then I had thought mainly the fact how platforms operate. What "Platform-based" means; when you build a platform-bases app your code becomes part of the design. Each platform imposes different rules, constraints, and opportunities. 
 Here are some examples of different platforms: 
 - Web apps live in the browser, interact with the DOM, and disappear when the tab closes.
