@@ -24,9 +24,11 @@ I created another block called "initView" where I then put the UI blocks from "i
 
 ## Refactor 3:
 Before:
-<img width="911" height="613" alt="Screenshot 2026-05-20 103313" src="https://github.com/user-attachments/assets/b7d059c1-6cb8-4237-993f-97332b3386e8" />
+<img width="1051" height="642" alt="Screenshot 2026-05-20 111626" src="https://github.com/user-attachments/assets/7180ec04-8522-411e-b9cc-727d32caae30" />
 
 After:
-<img width="1021" height="713" alt="Screenshot 2026-05-20 103512" src="https://github.com/user-attachments/assets/d81dc3aa-99c6-437b-b2bb-015b7ff4c89c" />
+<img width="1043" height="615" alt="Screenshot 2026-05-20 111812" src="https://github.com/user-attachments/assets/076b3a92-5e39-4056-973b-ac32ecfa355a" />
+
+
 
 For this I made "updateListView" as a reusable block that is easily implemented by just calling it.
