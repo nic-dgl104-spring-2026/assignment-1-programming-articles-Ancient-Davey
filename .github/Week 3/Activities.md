@@ -31,4 +31,4 @@ After:
 
 
 
-For this I made "updateListView" as a reusable block that is easily implemented by just calling it.
+For this I made "updateListView" as a reusable block that is easily implemented by just calling it and I made Screen1 to initialize "initView" and "updateListView".
