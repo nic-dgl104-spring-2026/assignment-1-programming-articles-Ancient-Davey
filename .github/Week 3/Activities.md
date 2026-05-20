@@ -1,6 +1,7 @@
 # Refactor Map it:
 Before:
-<img width="1025" height="700" alt="Screenshot 2026-05-20 101124" src="https://github.com/user-attachments/assets/f76921c3-2a64-46c8-add4-4cd7da1c22dc" />
+<img width="1050" height="710" alt="Screenshot 2026-05-20 101643" src="https://github.com/user-attachments/assets/532d719e-0321-4116-a36b-14262f660a53" />
+
 After:
 <img width="1057" height="687" alt="Screenshot 2026-05-20 101146" src="https://github.com/user-attachments/assets/7311e113-69e8-477c-9c07-9c2f4117313c" />
 
