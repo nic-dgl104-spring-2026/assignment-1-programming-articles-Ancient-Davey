@@ -11,7 +11,7 @@ Changed the naming of:
 - VerticalArrangment2 -- selectAddress
 - ListPicker1 -- savedLocations
 
-These changes will make reading the code easier as the names tell what they affect.
+These changes will make reading the code easier as the names tell what they affect. It also helps when looking at the blocks later because I don’t have to guess what each component is used for. Using better names also reduces confusion when adding more features later since everything is clearly labeled and easier to follow.
 
 ## Refactor 2:
 Before:
@@ -20,7 +20,7 @@ Before:
 After:
 <img width="1021" height="713" alt="Screenshot 2026-05-20 103512" src="https://github.com/user-attachments/assets/2c32c5ce-4e16-4ab8-9c29-746426ae4a0e" />
 
-I created another block called "initView" where I then put the UI blocks from "initData" into it to make it easier to read by catagorizing it.
+These changes will make reading the code easier as the names tell what they affect. It also helps when looking at the blocks later because I don’t have to guess what each component is used for. Using better names also reduces confusion when adding more features later since everything is clearly labeled and easier to follow.
 
 ## Refactor 3:
 Before:
@@ -31,4 +31,4 @@ After:
 
 
 
-For this I made "updateListView" as a reusable block that is easily implemented by just calling it and I made Screen1 to initialize "initView" and "updateListView".
+For this I made "updateListView" as a reusable block that is easily implemented by just calling it and I made Screen1 to initialize "initView" and "updateListView". This helps reduce repeating the same blocks multiple times and keeps the code shorter. It also makes future changes easier because if I need to change how the list updates, I only need to change it in one place instead of everywhere it’s used. It also improves consistency since the same logic is always used when updating the list.
