@@ -1,5 +1,5 @@
 # Refactor Map it:
-## Refactor 1:
+## Refactor 1 -- Poor Naming:
 Before:
 <img width="1050" height="710" alt="Screenshot 2026-05-20 101643" src="https://github.com/user-attachments/assets/532d719e-0321-4116-a36b-14262f660a53" />
 
@@ -13,7 +13,7 @@ Changed the naming of:
 
 These changes will make reading the code easier as the names tell what they affect. It also helps when looking at the blocks later because I don’t have to guess what each component is used for. Using better names also reduces confusion when adding more features later since everything is clearly labeled and easier to follow.
 
-## Refactor 2:
+## Refactor 2 -- Large Class:
 Before:
 <img width="911" height="613" alt="Screenshot 2026-05-20 103313" src="https://github.com/user-attachments/assets/da4b2d73-124f-4bb3-9f8d-3dcd8aac1865" />
 
@@ -22,7 +22,7 @@ After:
 
 These changes will make reading the code easier as the names tell what they affect. It also helps when looking at the blocks later because I don’t have to guess what each component is used for. Using better names also reduces confusion when adding more features later since everything is clearly labeled and easier to follow.
 
-## Refactor 3:
+## Refactor 3 -- Duplicate Code/Long Method:
 Before:
 <img width="1051" height="642" alt="Screenshot 2026-05-20 111626" src="https://github.com/user-attachments/assets/7180ec04-8522-411e-b9cc-727d32caae30" />
 
