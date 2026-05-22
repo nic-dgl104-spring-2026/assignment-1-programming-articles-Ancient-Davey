@@ -42,13 +42,18 @@ For this I made "updateListView" as a reusable block that is easily implemented 
 # Outline Your A12 Project
 Did not feel it was to necessary to do an outline just yet. Will do it when I start the project.
 
+
+
 # Follow-up Questions and Reflections
+
 
 ## How has refactoring helped you in past projects?
 Refactoring has helped me make my code easier to understand and fix later. When I rename things or organize blocks better, I don’t get as confused when I come back to the project. It also helps reduce mistakes because the code is clearer and less messy.
 
+
 ## What do you think is the single most important thing to keep in mind when refactoring?
 The most important thing is to not change what the code does, only improve how it is written. Refactoring should make the code cleaner without breaking functionality. Keeping things simple and readable is also important.
+
 
 ## How does refactoring relate to the practice of code review and to documentation practices?
 Refactoring helps a lot with code review because cleaner code is easier for others to read and understand. If the code is messy, it’s harder to review and find problems. It also improves documentation because good naming and structure act like built-in documentation. When code is clear, you don’t need as many comments to explain it.
