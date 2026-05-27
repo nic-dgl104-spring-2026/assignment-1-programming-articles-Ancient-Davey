@@ -6,7 +6,8 @@ I was given the task to fix the broken variant of "Get The Gold" app which I did
 - Preventing TimerInterval from reaching 0 or negative values
   
 Here is a photo of the fix:
-<img width="456" height="359" alt="Screenshot 2026-05-27 113958" src="https://github.com/user-attachments/assets/daf4e515-1333-40f2-a15e-d5f4f0c10627" />
+<img width="606" height="455" alt="Screenshot 2026-05-27 114624" src="https://github.com/user-attachments/assets/dc8ef3e5-1192-4865-96ac-9fad87409a0c" />
+
 
 Another issue was the fact that the timer kept adding even after the score quota was reached.
 Here are the fixes:
