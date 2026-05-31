@@ -19,3 +19,17 @@ The reset button was not reseting properly and here are the fixes made:
 - Reset now restores full game state
 - Fixed timer not restarting correctly
 - Reset sprite visibility
+
+
+## Build an MVP for A12 Project:
+User Testing:
+Problem:
+User found that the "X" button to exit the list counted as a wrong answer triggering the score to drop. Other than the first issue the testing proceeded without any other issues.
+
+The Fix:
+I made any other option other than the answers count as null.
+
+<img width="567" height="467" alt="Made Exit List Null" src="https://github.com/user-attachments/assets/16f10f4f-21fe-438f-8e2b-44c542db8560" />
+
+
+
