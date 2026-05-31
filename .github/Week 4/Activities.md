@@ -23,6 +23,7 @@ The reset button was not reseting properly and here are the fixes made:
 
 ## Build an MVP for A12 Project:
 User Testing:
+
 Problem:
 
 User found that the "X" button to exit the list counted as a wrong answer triggering the score to drop. Other than the first issue the testing proceeded without any other issues.
