@@ -18,11 +18,13 @@ Testing isn’t just about fixing bugs; it also helps improve the overall qualit
 ________________________________________
 ## Why Beginners Should Care About Testing
 It’s easy to assume testing is only important for large or complex projects, but it matters just as much when you’re starting out.
+
 Testing helps you:
 •	Catch mistakes early
 •	Understand your own code better
 •	Avoid breaking things when you update your program
 •	Spend less time debugging later
+
 One of the biggest benefits is confidence. When you test your code properly, you don’t have to second-guess whether something works, you already know it does. That makes it much easier to build on top of your existing work.
 
 ________________________________________
