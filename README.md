@@ -23,14 +23,16 @@ One of the biggest benefits is confidence. When you test your code properly, you
 ________________________________________
 ## 1. Manual Testing (The Starting Point for Most People)
 The simplest type of testing is manual testing; running your program and checking results yourself.
-Example
-Python
-def add_numbers(a, b):
-return a + b
 
-print(add_numbers(2, 3)) # Expected: 5
-print(add_numbers(-1, 1)) # Expected: 0
-Show more lines
+### Example
+
+```python
+def add_numbers(a, b):
+    return a + b
+
+print(add_numbers(2, 3))   # Expected: 5
+print(add_numbers(-1, 1))  # Expected: 0 ```
+
 This works, but it’s not scalable. You have to remember every case and check outputs manually.
 ________________________________________
 ## 2. Writing Simple Automated Tests
