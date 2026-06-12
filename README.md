@@ -21,13 +21,10 @@ It’s easy to assume testing is only important for large or complex projects, b
 
 Testing helps you:
 
-•	Catch mistakes early
-
-•	Understand your own code better
-
-•	Avoid breaking things when you update your program
-
-•	Spend less time debugging later
+- Catch mistakes early
+- Understand your own code better
+- Avoid breaking things when you update your program
+- Spend less time debugging later
 
 One of the biggest benefits is confidence. When you test your code properly, you don’t have to second-guess whether something works, you already know it does. That makes it much easier to build on top of your existing work.
 
@@ -176,12 +173,15 @@ ________________________________________
 When I first started programming, I didn’t really test my code properly. I would run it once, see that it worked, and move on. But as soon as I made changes, things would start breaking and I wouldn’t always know why.
 
 Once I started using simple tests like assert, things became much easier. I could check my code quickly and make sure everything still worked after changes. It also helped me understand my own logic better because I had to think about what each part of my program was supposed to do.
+
 Looking back, testing isn’t just something extra—it’s part of writing good code.
 
 ________________________________________
 ## Conclusion
 Testing might seem like extra work at first, but it actually saves you time and frustration in the long run. It helps you catch problems early, understand your code better, and build confidence in your work.
+
 As a beginner, you don’t need anything complicated to get started. Simple tools like assert statements and basic unit tests are more than enough. Over time, you can move on to more advanced techniques and tools.
+
 The most important thing is building the habit. Once testing becomes part of your workflow, your code will become more reliable, and you’ll spend less time debugging and more time actually building things.
 ________________________________________
 ## References
