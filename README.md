@@ -2,13 +2,18 @@
 # Why Testing Your Code Early Will Save You Later: A Beginner’s Guide to Code Testing
 ## Introduction
 When you’re first learning programming, testing your code usually isn’t your top priority. Most of the time, you’re focused on just getting something to work. If you run your program and it gives the right output once, that can feel like a success.
+
 But the reality is that code that works once isn’t always reliable. As you start adding more features or making changes, things can break in ways you didn’t expect. That’s where testing comes in.
+
 Having a good code testing mindset will save you from hiccups later in the code that you are building. So, it is recommended that you begin to learn to test code out of habit now rather than later. This will save you in the future when you build code and even when applying for a job because having the ability to test code is pretty valuable in my mind.
+
 In this article, I’ll walk you through the basics of code testing, why it matters, and how to start using simple testing approaches as a beginner. Whether you’re building small apps or just learning how functions work, these strategies will make your coding process smoother and more professional.
 ________________________________________
 ## What Is Code Testing?
 Code testing is the process of checking that your program behaves the way you expect it to. It’s not just about seeing if something runs, it’s about making sure it produces the correct results under different conditions.
+
 Testing isn’t only about fixing bugs either. It also helps improve the overall structure and quality of your code. When you write tests, you’re forced to think more clearly about what your code is supposed to do.
+
 Testing isn’t just about fixing bugs; it also helps improve the overall quality of your code. When you take the time to test properly, you start to feel more confident in what you’ve built because you know it works the way it should. Once a piece of code has been tested, you can move forward without constantly worrying that something might suddenly break later on.
 ________________________________________
 ## Why Beginners Should Care About Testing
