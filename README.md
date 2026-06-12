@@ -1,5 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/t3WF5L37)
 # Why Testing Your Code Early Will Save You Later: A Beginner’s Guide to Code Testing
+
+<img width="3882" height="2584" alt="christopher-gower-m_HRfLhgABo-unsplash" src="https://github.com/user-attachments/assets/13277a1e-0bb5-4609-951e-34f63260940b" />
+
+
 ## Introduction
 When you’re first learning programming, testing your code usually isn’t your top priority. Most of the time, you’re focused on just getting something to work. If you run your program and it gives the right output once, that can feel like a success.
 
@@ -10,6 +14,10 @@ Having a good code testing mindset will save you from hiccups later in the code 
 In this article, I’ll walk you through the basics of code testing, why it matters, and how to start using simple testing approaches as a beginner. Whether you’re building small apps or just learning how functions work, these strategies will make your coding process smoother and more professional.
 ________________________________________
 ## What Is Code Testing?
+
+<img width="4200" height="2400" alt="buddha-elemental-3d-XP-YDJetZ4Q-unsplash" src="https://github.com/user-attachments/assets/fe51fe0b-5888-459c-8620-2eecd76c0137" />
+
+
 Code testing is the process of checking that your program behaves the way you expect it to. It’s not just about seeing if something runs, it’s about making sure it produces the correct results under different conditions.
 
 Testing isn’t only about fixing bugs either. It also helps improve the overall structure and quality of your code. When you write tests, you’re forced to think more clearly about what your code is supposed to do.
@@ -17,6 +25,10 @@ Testing isn’t only about fixing bugs either. It also helps improve the overall
 Testing isn’t just about fixing bugs; it also helps improve the overall quality of your code. When you take the time to test properly, you start to feel more confident in what you’ve built because you know it works the way it should. Once a piece of code has been tested, you can move forward without constantly worrying that something might suddenly break later on.
 ________________________________________
 ## Why Beginners Should Care About Testing
+
+<img width="6048" height="4024" alt="keith-helfrich-c-VDUexuQ4g-unsplash" src="https://github.com/user-attachments/assets/ebc1b450-02e2-4b10-ba7c-d818c1451117" />
+
+
 It’s easy to assume testing is only important for large or complex projects, but it matters just as much when you’re starting out.
 
 Testing helps you:
@@ -160,6 +172,10 @@ input: -1, 5 → output: 4
 Even though it’s more visual, the same ideas still apply. You’re still checking if your app behaves correctly in different situations.
 ________________________________________
 ## Common Mistakes Beginners Make
+
+<img width="4592" height="3064" alt="towfiqu-barbhuiya-NwIExsCqXdM-unsplash" src="https://github.com/user-attachments/assets/e8b04ac8-2b79-4502-8756-d99aae31f454" />
+
+
 When starting out, it’s easy to fall into a few common traps:
 
 - Only testing simple or “happy path” cases
@@ -170,6 +186,10 @@ These mistakes are completely normal. The important thing is recognizing them an
 
 ________________________________________
 ## What I Learned About Testing
+
+<img width="6000" height="4000" alt="lilartsy-333oj7zFsdg-unsplash" src="https://github.com/user-attachments/assets/59b7667b-2d83-4358-85ad-036658d0ef0d" />
+
+
 When I first started programming, I didn’t really test my code properly. I would run it once, see that it worked, and move on. But as soon as I made changes, things would start breaking and I wouldn’t always know why.
 
 Once I started using simple tests like assert, things became much easier. I could check my code quickly and make sure everything still worked after changes. It also helped me understand my own logic better because I had to think about what each part of my program was supposed to do.
@@ -192,4 +212,5 @@ North Island College. (2026). App Development Foundations (DGL-104) course mater
 CoPilot – used for brainstorming and spelling and code checks.
 
 Microsoft Word -- used for writing this document.
+## Images Used
 
