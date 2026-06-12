@@ -143,8 +143,11 @@ ________________________________________
 If you’re working in something like MIT App Inventor, testing looks a bit different. Instead of writing code-based tests, you interact with your app directly:
 
 •	Running the app in real time
+
 •	Clicking buttons and checking results
+
 •	Testing inputs manually
+
 Example logic:
 ```JavaScript
 // Pseudocode example
@@ -161,10 +164,11 @@ Even though it’s more visual, the same ideas still apply. You’re still check
 ________________________________________
 ## Common Mistakes Beginners Make
 When starting out, it’s easy to fall into a few common traps:
-•	Only testing simple or “happy path” cases
-•	Forgetting to test after making changes
-•	Assuming something works because it worked once
-•	Ignoring unusual inputs
+
+- Only testing simple or “happy path” cases
+- Forgetting to test after making changes
+- Assuming something works because it worked once
+- Ignoring unusual inputs
 These mistakes are completely normal. The important thing is recognizing them and improving over time.
 
 ________________________________________
