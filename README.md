@@ -213,4 +213,12 @@ CoPilot – used for brainstorming and spelling and code checks.
 
 Microsoft Word -- used for writing this document.
 ## Images Used
+Gower, C. (n.d.). *Laptop with code on screen*. Unsplash. https://unsplash.com/photos/m_HRfLhgABo
 
+Elemental, B. (n.d.). *3D question mark illustration*. Unsplash. https://unsplash.com/photos/XP-YDJetZ4Q
+
+Lilartsy. (n.d.). *Person writing in notebook with pen*. Unsplash. https://unsplash.com/photos/333oj7zFsdg
+
+Barbhuiya, T. (n.d.). *Person holding glasses*. Unsplash. https://unsplash.com/photos/NwIExsCqXdM
+
+Helfrich, K. (n.d.). *Person wearing shirt with text "I REALLY CARE WHY DON'T U?"*. Unsplash. https://unsplash.com/photos/c-VDUexuQ4g
