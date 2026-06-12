@@ -39,7 +39,7 @@ ________________________________________
 ## 2. Writing Simple Automated Tests
 Automated tests let the computer check your work for you.
 A very basic approach is using assert statements:
-Python
+```Python
 def add_numbers(a, b):
 return a + b
 
@@ -48,8 +48,8 @@ assert add_numbers(-1, 1) == 0
 assert add_numbers(0, 0) == 0
 
 print("All tests passed!")
-``
-Show more lines
+```
+
 Why this is better:
 •	Runs instantly
 •	Detects problems automatically
@@ -57,9 +57,8 @@ Why this is better:
 ________________________________________
 ## 3. Unit Testing: Testing Small Pieces
 Unit testing focuses on testing individual functions or components.
-According to Martin (2008), good code should be small and testable in isolation.
 Example: Testing a Function
-Python
+```Python
 def is_even(number):
 return number % 2 == 0
 
@@ -67,12 +66,12 @@ return number % 2 == 0
 assert is_even(2) == True
 assert is_even(3) == False
 assert is_even(0) == True
-Show more lines
+```
 Each test checks one specific behavior. If one fails, you immediately know what broke.
 ________________________________________
 ## 4. Using a Testing Framework (unittest)
 Python includes a built-in testing framework called unittest, which is more structured.
-Python
+```Python
 import unittest
 
 def multiply(a, b):
@@ -88,8 +87,7 @@ self.assertEqual(multiply(5, 0), 0)
 
 if __name__ == "__main__":
 unittest.main()
-
-Show more lines
+```
 Benefits:
 •	Organized test cases
 •	Clear output messages
@@ -98,7 +96,7 @@ ________________________________________
 ## 5. Edge Case Testing
 Edge cases are unusual or extreme inputs that might break your program.
 Example:
-''' Python
+``` Python
 def divide(a, b):
 return a / b
 
@@ -110,16 +108,16 @@ divide(10, 0)
 assert False # Should not reach here
 except ZeroDivisionError:
 assert True
-'''
+```
 
 ________________________________________
-6. Test-Driven Development (TDD)
+## 6. Test-Driven Development (TDD)
 Test-Driven Development is a powerful approach where you:
 1.	Write tests first
 2.	Write code to pass the tests
 3.	Refactor
 Example
-Python
+```Python
 # Step 1: Write test
 def square(x):
 return x * x
@@ -127,18 +125,17 @@ return x * x
 assert square(3) == 9
 
 # Step 2: Improve code later if needed
-``
-Show more lines
+```
 TDD encourages you to think about expected behavior before writing the implementation.
 ________________________________________
-7. Testing in App Development
+## 7. Testing in App Development
 If you’re working in something like MIT App Inventor, testing looks a bit different. Instead of writing code-based tests, you interact with your app directly:
 
 •	Running the app in real time
 •	Clicking buttons and checking results
 •	Testing inputs manually
 Example logic:
-JavaScript
+```JavaScript
 // Pseudocode example
 when Button.Click:
 result = input1 + input2
@@ -148,9 +145,10 @@ display result
 input: 2, 3 → output: 5
 input: 0, 0 → output: 0
 input: -1, 5 → output: 4
+```
 Even though it’s more visual, the same ideas still apply. You’re still checking if your app behaves correctly in different situations.
 ________________________________________
-Common Mistakes Beginners Make
+## Common Mistakes Beginners Make
 When starting out, it’s easy to fall into a few common traps:
 •	Only testing simple or “happy path” cases
 •	Forgetting to test after making changes
@@ -159,19 +157,21 @@ When starting out, it’s easy to fall into a few common traps:
 These mistakes are completely normal. The important thing is recognizing them and improving over time.
 
 ________________________________________
-What I Learned About Testing
+## What I Learned About Testing
 When I first started programming, I didn’t really test my code properly. I would run it once, see that it worked, and move on. But as soon as I made changes, things would start breaking and I wouldn’t always know why.
 
 Once I started using simple tests like assert, things became much easier. I could check my code quickly and make sure everything still worked after changes. It also helped me understand my own logic better because I had to think about what each part of my program was supposed to do.
 Looking back, testing isn’t just something extra—it’s part of writing good code.
 
 ________________________________________
-Conclusion
+## Conclusion
 Testing might seem like extra work at first, but it actually saves you time and frustration in the long run. It helps you catch problems early, understand your code better, and build confidence in your work.
 As a beginner, you don’t need anything complicated to get started. Simple tools like assert statements and basic unit tests are more than enough. Over time, you can move on to more advanced techniques and tools.
 The most important thing is building the habit. Once testing becomes part of your workflow, your code will become more reliable, and you’ll spend less time debugging and more time actually building things.
 ________________________________________
-References
+## References
 DEV Community. (2020). How To Write The Perfect Documentation For Your GitHub Project. https://dev.to
+## Tools used
 CoPilot – used for brainstorming and spelling and code checks.
+Microsoft Word -- used for writing this document.
 
