@@ -171,6 +171,7 @@ The most important thing is building the habit. Once testing becomes part of you
 ________________________________________
 ## References
 DEV Community. (2020). How To Write The Perfect Documentation For Your GitHub Project. https://dev.to
+North Island College. (2026). App Development Foundations (DGL-104) course materials.
 ## Tools used
 CoPilot – used for brainstorming and spelling and code checks.
 
