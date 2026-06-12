@@ -20,6 +20,7 @@ ________________________________________
 It’s easy to assume testing is only important for large or complex projects, but it matters just as much when you’re starting out.
 
 Testing helps you:
+
 •	Catch mistakes early
 •	Understand your own code better
 •	Avoid breaking things when you update your program
