@@ -31,7 +31,8 @@ def add_numbers(a, b):
     return a + b
 
 print(add_numbers(2, 3))   # Expected: 5
-print(add_numbers(-1, 1))  # Expected: 0 ```
+print(add_numbers(-1, 1))  # Expected: 0
+ ```
 
 This works, but it’s not scalable. You have to remember every case and check outputs manually.
 ________________________________________
