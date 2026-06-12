@@ -174,7 +174,7 @@ When I first started programming, I didn’t really test my code properly. I wou
 
 Once I started using simple tests like assert, things became much easier. I could check my code quickly and make sure everything still worked after changes. It also helped me understand my own logic better because I had to think about what each part of my program was supposed to do.
 
-Looking back, testing isn’t just something extra—it’s part of writing good code.
+Looking back, testing isn’t just something extra, it’s part of writing good code.
 
 ________________________________________
 ## Conclusion
